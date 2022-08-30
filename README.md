@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Marcus Davis, a Developer and VFX Compositer from the US.
+## Hi, I'm Marcus Davis, a hopeful Comp Sci Researcher from the US.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
